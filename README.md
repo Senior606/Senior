@@ -1,2 +1,1 @@
-# Senior
-Server Udvikling information
+Ændret i Våben damage!
