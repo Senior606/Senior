@@ -1,1 +1,1 @@
-Ændret i Våben damage!
+Ændre i OX_inventory(shops)
