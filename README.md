@@ -1,1 +1,1 @@
-Ændre i OX_inventory(shops)
+ændret i Mani radio og Mani armour system
