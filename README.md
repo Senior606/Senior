@@ -1,1 +1,1 @@
-ændret i Mani radio og Mani armour system
+Fixet Drugsystem Omdan virker 
